@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import r2_score
 import random
 import scipy
+import geopy
 
 
 path_loc=r"E:\Foam_Projects\SimulationCase_PhD\ValidCases\CaceC\postProcessing\probes\50\mag(U)"
