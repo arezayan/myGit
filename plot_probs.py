@@ -7,7 +7,7 @@ Created on Sat Mar 16 22:15:00 2024
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-#from sklearn.metrics import r2_score
+from sklearn.metrics import r2_score
 import random
 import scipy
 
